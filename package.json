@@ -9,7 +9,7 @@
     "prepublish": "npm run build"
   },
   "bin": {
-    "images-pdf": "./dist/cli.js"
+    "@tzpro/images-pdf": "./dist/cli.js"
   },
   "keywords": [
     "pdf",
